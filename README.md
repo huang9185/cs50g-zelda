@@ -1,5 +1,9 @@
 # Legend of Zelda - Interactive Objects Update ⚔️
 
+
+https://github.com/user-attachments/assets/e964c15e-d699-4511-96c8-8db36200b475
+
+
 ## Overview
 A top-down action RPG built in Lua and LÖVE2D, emulating the classic dungeon-crawling mechanics of the Legend of Zelda.
 
